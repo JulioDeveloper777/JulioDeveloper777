@@ -6,8 +6,8 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong>
-- ReactJS, NextJS, React Native <br>
+  🦄 <strong>Linguagens:</strong> <br>
+- ReactJS, NextJS, React Native  <br>
 - Typescript, Webpack</strong> <br>
 - Styled Components, SASS, Tailwind <br>
 - Vitest, Cypress, JestJS</strong><br>
