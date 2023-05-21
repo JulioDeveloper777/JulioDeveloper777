@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Hey, me chamo Júlio e estudo <strong>Desenvolvimento Web e Mobile.</strong>.<br>
@@ -6,11 +6,14 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript, Next.js, Typescript.</strong>
+  🦄 Linguagens: <strong> - ReactJS, NextJS, React Native</strong> <br>
+<strong> - Typescript, Webpack</strong> <br>
+<strong> - Styled Components, SASS, Tailwind</strong> <br>
+<strong> - Vitest, Cypress, JestJS</strong><br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Bootstrap, Git</strong>
+  💼 Ferramentas: <strong>VSCode, Figma</strong>
 </p>
 
 <p align="left">
