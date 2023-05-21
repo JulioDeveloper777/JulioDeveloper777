@@ -1,15 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hey, me chamo Júlio e estudo <strong>Desenvolvimento Web e Mobile.</strong>.<br>
-  Minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário.
+  Hey, me chamo Júlio e estudo <strong>Desenvolvimento back-end.</strong>.<br>
+  Sou apaixonado por tecnologia e minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> - ReactJS, NextJS, React Native</strong> <br>
-<strong> - Typescript, Webpack</strong> <br>
-<strong> - Styled Components, SASS, Tailwind</strong> <br>
-<strong> - Vitest, Cypress, JestJS</strong><br>
+  🦄 <strong>Linguagens:</strong>
+- ReactJS, NextJS, React Native <br>
+- Typescript, Webpack</strong> <br>
+- Styled Components, SASS, Tailwind <br>
+- Vitest, Cypress, JestJS</strong><br>
 </p>
 
 <p align="left">
