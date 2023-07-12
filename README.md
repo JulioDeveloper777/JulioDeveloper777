@@ -7,8 +7,8 @@
 
 <p align="left">
   🦄 <strong>Linguagens:</strong> <br>
-- ReactJS, NextJS, React Native<br>
-- CSharp, Typescript, Vitejs</strong> <br>
+- Javascript, NextJS, React Native<br>
+- CSharp, Typescript</strong> <br>
 </p>
 
 <p align="left">
