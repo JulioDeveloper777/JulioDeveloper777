@@ -7,12 +7,12 @@
 
 <p align="left">
   💜 <strong>Linguagens:</strong> <br>
-- Javascript, NextJS, React Native<br>
-- CSharp, Typescript</strong> <br>
+- Csharp, NextJS, Typescript<br>
+- Javascript, React Native</strong> <br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Unity</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Figma, Unity</strong>
 </p>
 
 <p align="left">
