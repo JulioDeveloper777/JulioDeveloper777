@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hey, me chamo Júlio e atualmente estudo <strong>Desenvolvimento de jogos</strong>.<br>
+  Hey, me chamo Júlio e atualmente estudo <strong>Desenvolvimento Web</strong> e <strong>Desenvolvimento de jogos</strong>.<br>
   Sou apaixonado por tecnologia e minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário.
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> <br>
+  💜 <strong>Linguagens:</strong> <br>
 - Javascript, NextJS, React Native<br>
 - CSharp, Typescript</strong> <br>
 </p>
