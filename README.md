@@ -17,10 +17,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Figma, Unity</strong>
-</p>
-
-<p align="left">
   💌 Gostou do meu trabalho? entre em contato comigo: ⤵️
 </p>
 
