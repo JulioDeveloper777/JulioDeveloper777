@@ -1,10 +1,10 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey, me chamo Júlio!
+# 👋 Hey, me chamo Júlio!
 
 
-Atualmente estudo Desenvolvimento Back-end, sou apaixonado por tecnologia de minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário.
+Sou apaixonado por tecnologia e minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário! atualmente estudo Desenvolvimento Back-end.
 
-* ✉️  Entre em contato comigo em: [fiftycontactbr@GM](mailto:fiftycontactbr@gmail.com)
-* 🧠  Atualmente estudando: Typescript, C# e PostgreSQL.
+* ✉️  Entre em contato comigo em: **[@fiftycontactbr](mailto:fiftycontactbr@gmail.com)**
+* 🧠  Atualmente estudando: **Typescript, C# e PostgreSQL.**
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
