@@ -1,7 +1,7 @@
 # 👋 Hey, me chamo Júlio!
 
 
-Sou apaixonado por tecnologia e minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário! atualmente estudo Desenvolvimento Back-end.
+Sou apaixonado por tecnologia e minha paixão é criar e otimizar códigos para melhorar a eficiência e a experiência do usuário! atualmente estudo Desenvolvimento Backend.
 
 * ✉️  Entre em contato comigo em: **[@fiftycontactbr](mailto:fiftycontactbr@gmail.com)**
 * 🧠  Atualmente estudando: **Typescript**
