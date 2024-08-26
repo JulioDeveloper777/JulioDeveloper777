@@ -10,5 +10,5 @@ I'm 17 years old, I'm a back-end programming student and I live in Brazil.
   
 ## 🔨 Language and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,mysql,postgresql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,mysql,postgresql,html,css,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
