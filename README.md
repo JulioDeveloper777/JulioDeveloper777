@@ -5,4 +5,4 @@ Tenho 18 anos e sou Desenvolvedor Backend.
   
 ## 🔨 Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,javascript,typescript,nodejs)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,express,vitest,mysql,postgresql,prisma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,express,jest,vitest,mysql,postgresql,prisma,docker)](https://skillicons.dev)
